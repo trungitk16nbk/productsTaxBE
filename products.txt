@@ -1,0 +1,347 @@
+[
+ {
+  "sku": "CB00001",
+  "name": "Combo 2 Gói Gia vị Bak Kut Teh trân châu 50g",
+  "tax": 8
+ },
+ {
+  "sku": "CB00002",
+  "name": "Combo 2 gói gia vị lẩu dê bò 105g",
+  "tax": 8
+ },
+ {
+  "sku": "CB00003",
+  "name": "Combo 2 gói gia vị nấu lẩu gà tiềm ớt hiểm 90g",
+  "tax": 8
+ },
+ {
+  "sku": "CB00004",
+  "name": "Combo 2 gói gia vị nấu lẩu gà tiềm ớt hiểm 90g và gia vị nấu lẩu dê bò 105g",
+  "tax": 8
+ },
+ {
+  "sku": "CB00005",
+  "name": "Combo 2 chai sốt lẩu tây tạng 270g",
+  "tax": 8
+ },
+ {
+  "sku": "CB00006",
+  "name": "Combo 3 Gói Gia vị Bak Kut Teh trân châu 50g",
+  "tax": 8
+ },
+ {
+  "sku": "GB01BCR40",
+  "name": "Bột cà ri 40g",
+  "tax": 8
+ },
+ {
+  "sku": "GB01BCR50",
+  "name": "Bột cà ri 50g",
+  "tax": 8
+ },
+ {
+  "sku": "GB01BH45",
+  "name": "Bột hành 45g",
+  "tax": 8
+ },
+ {
+  "sku": "GB01BNVH40",
+  "name": "Bột ngũ vị hương 40g",
+  "tax": 8
+ },
+ {
+  "sku": "GB01BT55",
+  "name": "Bột tỏi 55g",
+  "tax": 8
+ },
+ {
+  "sku": "GB01BUTN40",
+  "name": "Bột ướp thịt nướng 40g",
+  "tax": 8
+ },
+ {
+  "sku": "GB01GB35",
+  "name": "Gừng bột 35g",
+  "tax": 8
+ },
+ {
+  "sku": "GB01GVCKN40",
+  "name": "Gia vị cá kho nghệ 40g",
+  "tax": 8
+ },
+ {
+  "sku": "GB01GVCKT45",
+  "name": "Gia vị cá kho tộ 45g",
+  "tax": 8
+ },
+ {
+  "sku": "GB01GVKSR45",
+  "name": "Gia vị kho sườn rim 45g",
+  "tax": 8
+ },
+ {
+  "sku": "GB01NB40",
+  "name": "Nghệ bột 40g",
+  "tax": 8
+ },
+ {
+  "sku": "GB01OB40",
+  "name": "Ớt bột (ít cay) 40g",
+  "tax": 8
+ },
+ {
+  "sku": "GB01OCX30",
+  "name": "Ớt xay cánh 30g",
+  "tax": 8
+ },
+ {
+  "sku": "GB01QB35",
+  "name": "Quế bột 35g",
+  "tax": 8
+ },
+ {
+  "sku": "GB01SB35",
+  "name": "Sả bột 35g",
+  "tax": 8
+ },
+ {
+  "sku": "GB01TDX40",
+  "name": "Tiêu đen xay 40g",
+  "tax": 8
+ },
+ {
+  "sku": "GB01TSX40",
+  "name": "Tiêu sọ xay 40g",
+  "tax": 8
+ },
+ {
+  "sku": "GO01GB45",
+  "name": "Gừng Bột Hữu Cơ Trân Châu 45g",
+  "tax": 8
+ },
+ {
+  "sku": "GO01NB45",
+  "name": "Nghệ Bột Hữu Cơ Trân Châu 45g",
+  "tax": 8
+ },
+ {
+  "sku": "GO01QB45",
+  "name": "Quế Bột Hữu Cơ Trân Châu 45g",
+  "tax": 8
+ },
+ {
+  "sku": "GO01RB30",
+  "name": "Riềng Bột Hữu Cơ Trân Châu 30g",
+  "tax": 8
+ },
+ {
+  "sku": "GO01RB30",
+  "name": "Riềng Bột Hữu Cơ Trân Châu 30g",
+  "tax": 8
+ },
+ {
+  "sku": "GO01SB40",
+  "name": "Sả Bột Hữu Cơ Trân Châu 40g",
+  "tax": 8
+ },
+ {
+  "sku": "GO01TDX50",
+  "name": "Tiêu Đen Xay Hữu Cơ Trân Châu 50g",
+  "tax": 8
+ },
+ {
+  "sku": "GO01TSX50",
+  "name": "Tiêu Sọ Xay Hữu Cơ Trân Châu 50g",
+  "tax": 8
+ },
+ {
+  "sku": "GT01BKT50",
+  "name": "Gia vị Bak Kut Teh trân châu 50g",
+  "tax": 8
+ },
+ {
+  "sku": "GT01GTOH90",
+  "name": "Gia vị gà tiềm ớt hiểm trân châu 90g",
+  "tax": 8
+ },
+ {
+  "sku": "GT01LDB105",
+  "name": "Gia vị lẩu dê bò trân châu 105g",
+  "tax": 8
+ },
+ {
+  "sku": "GV01MDCX100",
+  "name": "Muối đen cối xay Himalaya 100g",
+  "tax": 8
+ },
+ {
+  "sku": "GV01MDH05",
+  "name": "Muối đen hạt Himalaya 500g",
+  "tax": 8
+ },
+ {
+  "sku": "GV01MDXH500",
+  "name": "Muối đen xay Himalaya 500g",
+  "tax": 8
+ },
+ {
+  "sku": "GV01MHCX100",
+  "name": "Muối hồng cối xay Himalaya 100g",
+  "tax": 8
+ },
+ {
+  "sku": "GV01MHH05",
+  "name": "Muối hồng hạt Himalaya 500g (3-5mm)",
+  "tax": 8
+ },
+ {
+  "sku": "GV01MHH051-3",
+  "name": "Muối hồng hạt Himalaya 500g (Hũ) (1-3mm)",
+  "tax": 8
+ },
+ {
+  "sku": "GV01MHXH05",
+  "name": "Muối hồng xay Himalaya 500g",
+  "tax": 8
+ },
+ {
+  "sku": "HNBCR",
+  "name": "Bột cà ri",
+  "tax": 8
+ },
+ {
+  "sku": "HNBDH",
+  "name": "Bột đinh hương",
+  "tax": 8
+ },
+ {
+  "sku": "HNBG",
+  "name": "Bột gừng",
+  "tax": 8
+ },
+ {
+  "sku": "HNBH",
+  "name": "Bột hành",
+  "tax": 8
+ },
+ {
+  "sku": "HNBHH",
+  "name": "Bột hoa hồi",
+  "tax": 8
+ },
+ {
+  "sku": "HNBN",
+  "name": "Bột ngò",
+  "tax": 8
+ },
+ {
+  "sku": "HNBNDK",
+  "name": "Bột Nhục Đậu Khấu",
+  "tax": 8
+ },
+ {
+  "sku": "HNBNG",
+  "name": "Bột nghệ",
+  "tax": 8
+ },
+ {
+  "sku": "HNBNVH",
+  "name": "Bột Ngũ vị hương",
+  "tax": 8
+ },
+ {
+  "sku": "HNBO",
+  "name": "Ớt bột Parprika",
+  "tax": 8
+ },
+ {
+  "sku": "HNBQ",
+  "name": "Bột quế",
+  "tax": 8
+ },
+ {
+  "sku": "HNBR",
+  "name": "Bột riềng",
+  "tax": 8
+ },
+ {
+  "sku": "HNBS",
+  "name": "Bột sả",
+  "tax": 8
+ },
+ {
+  "sku": "HNBT",
+  "name": "Bột tỏi",
+  "tax": 8
+ },
+ {
+  "sku": "HNBTH",
+  "name": "Bột tiểu hồi",
+  "tax": 8
+ },
+ {
+  "sku": "HNBTL",
+  "name": "Bột Thì Là",
+  "tax": 8
+ },
+ {
+  "sku": "HNBTQ",
+  "name": "Bột thảo quả",
+  "tax": 8
+ },
+ {
+  "sku": "HNGL",
+  "name": "Gừng lát",
+  "tax": 8
+ },
+ {
+  "sku": "HNHTLAT",
+  "name": "Hành tím lát",
+  "tax": 8
+ },
+ {
+  "sku": "HNOB",
+  "name": "Ớt bột",
+  "tax": 8
+ },
+ {
+  "sku": "HNOXC",
+  "name": "Ớt xay cánh",
+  "tax": 8
+ },
+ {
+  "sku": "HNTDX",
+  "name": "Tiêu đen xay",
+  "tax": 8
+ },
+ {
+  "sku": "HNTSX",
+  "name": "Tiêu sọ xay",
+  "tax": 8
+ },
+ {
+  "sku": "HNVNDK",
+  "name": "Vỏ Nhục Đậu khấu",
+  "tax": 8
+ },
+ {
+  "sku": "SS01SLTT270",
+  "name": "Sốt Lẩu Tây Tạng 270g",
+  "tax": 8
+ },
+ {
+  "sku": "SS01SNCES200",
+  "name": "Sốt Nấu Cháo Ếch Singapore 200g",
+  "tax": 8
+ },
+ {
+  "sku": "SS01SUTN180",
+  "name": "Sốt Ướp Thịt Nướng 180g",
+  "tax": 8
+ },
+ {
+  "sku": "TCBDM",
+  "name": "Bột điều màu",
+  "tax": 8
+ }
+]
