@@ -13,11 +13,11 @@ app.use(express.urlencoded({ extended: false }));
 
 // cau hinh cros
 app.use((req, res, next) => {
-  res.setHeader(
-    "Access-Control-Allow-Origin",
-    "chrome-extension://khjnjdmnalkmfgakpkpponbkadajalnn"
-  );
-  //res.setHeader('Access-Control-Allow-Origin', '*');
+  // res.setHeader(
+  //   "Access-Control-Allow-Origin",
+  //   "chrome-extension://khjnjdmnalkmfgakpkpponbkadajalnn"
+  // );
+  res.setHeader('Access-Control-Allow-Origin', '*');
   res.setHeader(
     "Access-Control-Allow-Methods",
     "GET, POST, OPTIONS, PUT, PATCH, DELETE"
